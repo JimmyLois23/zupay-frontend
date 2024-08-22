@@ -154,6 +154,7 @@ const Search = () => {
                     Welcome to Blog Monk
                   </h1>
                   <h1>Search Something On Top</h1>
+                 <p>Initial Search Queries = reactjs, js </p>
                  <h1>Create Account To Post Your Blogs , SignUp Now</h1>
                 </>
               )}
